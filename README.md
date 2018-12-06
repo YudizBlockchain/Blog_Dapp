@@ -16,3 +16,5 @@ Steps to build:<br/>
 4.Open terminal in frontend folder and execute below commands<br/>
   --> **npm install**<br/>
   --> **npm start** Go on localhost:3000 to see output
+
+Watch demo video of this dapp over here https://www.youtube.com/watch?v=vuDhdnP0_CA&feature=youtu.be
